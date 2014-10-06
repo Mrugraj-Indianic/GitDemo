@@ -19,6 +19,7 @@
     
     NSLog(@"Start Development in this");
     
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -34,4 +35,9 @@
     NSLog(@"This is FRom Master Branch");
 }
 
+-(void)newMethodMerged{
+    
+}
+
 @end
+
