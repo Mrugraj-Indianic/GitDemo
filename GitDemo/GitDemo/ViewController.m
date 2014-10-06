@@ -30,4 +30,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)methodOnMasterBranch{
+    NSLog(@"This is FRom Master Branch");
+}
+
 @end
